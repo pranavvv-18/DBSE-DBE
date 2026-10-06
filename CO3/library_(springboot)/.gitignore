@@ -1,0 +1,13 @@
+# Dependency & Build directories
+node_modules/
+dist/
+target/
+*.class
+*.jar
+*.war
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.iml
+*.log
